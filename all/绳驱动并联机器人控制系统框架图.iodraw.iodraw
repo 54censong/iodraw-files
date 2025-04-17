@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E7U1RG6hAolohH05hZip-1" value="绳驱动并联机器人控制系统框架图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="E7U1RG6hAolohH05hZip-1" value="绳驱动并联机器人控制系统框架图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="252" y="137" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E7U1RG6hAolohH05hZip-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="132" y="207" width="530" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="E7U1RG6hAolohH05hZip-3" value="PC软件层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="E7U1RG6hAolohH05hZip-3" value="PC软件层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="362" y="177" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E7U1RG6hAolohH05hZip-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
