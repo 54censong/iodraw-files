@@ -240,8 +240,11 @@
         <mxCell id="CpFf3N0MJzBk4hOYuYq--10" value="打印完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CpFf3N0MJzBk4hOYuYq--12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="CpFf3N0MJzBk4hOYuYq--13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
