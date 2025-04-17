@@ -275,7 +275,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CpFf3N0MJzBk4hOYuYq--9" value="下一层成型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CpFf3N0MJzBk4hOYuYq--9" value="打印下一层成型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--10" value="完成打印" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
