@@ -242,6 +242,9 @@
         <mxCell id="CpFf3N0MJzBk4hOYuYq--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CpFf3N0MJzBk4hOYuYq--6" target="CpFf3N0MJzBk4hOYuYq--8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CpFf3N0MJzBk4hOYuYq--39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CpFf3N0MJzBk4hOYuYq--6" target="CpFf3N0MJzBk4hOYuYq--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--6" value="接触层打印" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="230" width="200" height="40" as="geometry" />
         </mxCell>
@@ -262,6 +265,9 @@
               <mxPoint x="620" y="530" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CpFf3N0MJzBk4hOYuYq--38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CpFf3N0MJzBk4hOYuYq--8" target="CpFf3N0MJzBk4hOYuYq--6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--8" value="是否最后一层" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="290" width="200" height="80" as="geometry" />
