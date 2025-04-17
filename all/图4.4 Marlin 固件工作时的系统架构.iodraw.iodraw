@@ -312,7 +312,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--34" value="打印成型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="700" y="210" width="60" height="100" as="geometry" />
+          <mxGeometry x="670" y="180" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
