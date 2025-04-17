@@ -225,7 +225,7 @@
         <mxCell id="CpFf3N0MJzBk4hOYuYq--5" value="挤出头与热床的预热" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CpFf3N0MJzBk4hOYuYq--6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CpFf3N0MJzBk4hOYuYq--6" value="接触层打印" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
