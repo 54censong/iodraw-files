@@ -41,7 +41,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C32ZuojB10ZtlSCaT9Io-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;按压弹簧&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="231" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="231" y="311" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C32ZuojB10ZtlSCaT9Io-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="C32ZuojB10ZtlSCaT9Io-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="286" y="405" as="sourcePoint" />
+            <mxPoint x="336" y="355" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
