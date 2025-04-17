@@ -26,7 +26,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C32ZuojB10ZtlSCaT9Io-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;送料口&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="227" y="178" width="60" height="30" as="geometry" />
+          <mxGeometry x="231" y="184" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C32ZuojB10ZtlSCaT9Io-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365" y="271" as="sourcePoint" />
+            <mxPoint x="415" y="221" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
