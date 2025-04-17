@@ -257,9 +257,13 @@
         <mxCell id="CpFf3N0MJzBk4hOYuYq--8" value="是否最后一层" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="290" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CpFf3N0MJzBk4hOYuYq--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CpFf3N0MJzBk4hOYuYq--9">
+        <mxCell id="CpFf3N0MJzBk4hOYuYq--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CpFf3N0MJzBk4hOYuYq--9" target="CpFf3N0MJzBk4hOYuYq--8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="480" />
+              <mxPoint x="380" y="330" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--9" value="下一层成型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
