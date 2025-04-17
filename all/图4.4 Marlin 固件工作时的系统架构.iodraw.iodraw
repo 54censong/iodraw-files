@@ -239,13 +239,16 @@
         <mxCell id="CpFf3N0MJzBk4hOYuYq--5" value="挤出头与热床的预热" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="170" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CpFf3N0MJzBk4hOYuYq--26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CpFf3N0MJzBk4hOYuYq--6" target="CpFf3N0MJzBk4hOYuYq--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--6" value="接触层打印" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="230" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--7" value="热床下移一层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="390" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CpFf3N0MJzBk4hOYuYq--24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CpFf3N0MJzBk4hOYuYq--8" target="CpFf3N0MJzBk4hOYuYq--9">
+        <mxCell id="CpFf3N0MJzBk4hOYuYq--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CpFf3N0MJzBk4hOYuYq--8" target="CpFf3N0MJzBk4hOYuYq--7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--8" value="是否最后一层" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
