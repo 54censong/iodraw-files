@@ -233,14 +233,8 @@
         <mxCell id="CpFf3N0MJzBk4hOYuYq--4" value="后处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CpFf3N0MJzBk4hOYuYq--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CpFf3N0MJzBk4hOYuYq--5" target="CpFf3N0MJzBk4hOYuYq--8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--5" value="挤出头与热床的预热" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="170" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CpFf3N0MJzBk4hOYuYq--26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CpFf3N0MJzBk4hOYuYq--6" target="CpFf3N0MJzBk4hOYuYq--5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--6" value="接触层打印" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="230" width="200" height="40" as="geometry" />
