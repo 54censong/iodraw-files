@@ -225,10 +225,15 @@
         <mxCell id="CpFf3N0MJzBk4hOYuYq--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CpFf3N0MJzBk4hOYuYq--3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="410" />
+              <mxPoint x="320" y="401" />
+              <mxPoint x="360" y="401" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--3" value="切片处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--4" value="后处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="490" width="120" height="60" as="geometry" />
