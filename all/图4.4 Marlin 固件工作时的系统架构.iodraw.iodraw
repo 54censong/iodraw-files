@@ -211,7 +211,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CpFf3N0MJzBk4hOYuYq--1" value="零件三维建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CpFf3N0MJzBk4hOYuYq--17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CpFf3N0MJzBk4hOYuYq--2" target="CpFf3N0MJzBk4hOYuYq--3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--2" value="STL格式文件生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
