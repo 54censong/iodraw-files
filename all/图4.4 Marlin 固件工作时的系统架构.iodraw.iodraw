@@ -317,6 +317,9 @@
         <mxCell id="CpFf3N0MJzBk4hOYuYq--35" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="360" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CpFf3N0MJzBk4hOYuYq--36" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
