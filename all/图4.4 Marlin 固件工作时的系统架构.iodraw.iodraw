@@ -210,6 +210,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CpFf3N0MJzBk4hOYuYq--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CpFf3N0MJzBk4hOYuYq--1" target="CpFf3N0MJzBk4hOYuYq--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--1" value="零件三维建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -275,7 +278,7 @@
         <mxCell id="CpFf3N0MJzBk4hOYuYq--9" value="下一层成型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CpFf3N0MJzBk4hOYuYq--10" value="打印完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CpFf3N0MJzBk4hOYuYq--10" value="完成打印" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="510" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CpFf3N0MJzBk4hOYuYq--13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
