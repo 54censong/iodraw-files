@@ -7,8 +7,8 @@
         <mxCell id="rGGzP24AmpCkL_Au9qND-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="132" y="203" width="530" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rGGzP24AmpCkL_Au9qND-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;PC&lt;/font&gt;软件层" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontFamily=宋体;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="362" y="173" width="68" height="20" as="geometry" />
+        <mxCell id="rGGzP24AmpCkL_Au9qND-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;PC&lt;/font&gt;软件层" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="364.25" y="173" width="68" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rGGzP24AmpCkL_Au9qND-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="142" y="233" width="120" height="80" as="geometry" />
@@ -85,7 +85,7 @@
         <mxCell id="rGGzP24AmpCkL_Au9qND-25" value="串口通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="414" y="332" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rGGzP24AmpCkL_Au9qND-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;Arduion&lt;/font&gt;固件层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontFamily=宋体;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="rGGzP24AmpCkL_Au9qND-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;Arduion&lt;/font&gt;固件层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="372" width="96.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rGGzP24AmpCkL_Au9qND-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
