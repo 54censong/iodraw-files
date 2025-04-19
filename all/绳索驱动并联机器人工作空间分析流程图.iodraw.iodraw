@@ -100,6 +100,105 @@
         <mxCell id="GrBn_58rgSGpaT71Z5WO-32" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="239.68" y="480" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="GrBn_58rgSGpaT71Z5WO-34" target="GrBn_58rgSGpaT71Z5WO-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-34" value="&lt;font&gt;&lt;b&gt;开始&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="GrBn_58rgSGpaT71Z5WO-36" target="GrBn_58rgSGpaT71Z5WO-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-36" value="&lt;div&gt;&lt;b&gt;初始化参数&lt;/b&gt;&lt;/div&gt;&lt;div&gt;定义静/动平台参数、绳索连接点&lt;/div&gt;&lt;div&gt;设置绳索张力约束(T_min,T_max)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="GrBn_58rgSGpaT71Z5WO-38" target="GrBn_58rgSGpaT71Z5WO-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-38" value="&lt;div&gt;&lt;b&gt;设置蒙特卡洛采样参数&lt;/b&gt;&lt;/div&gt;&lt;div&gt;采样点数、高度范围、&lt;span&gt;径向范围&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="GrBn_58rgSGpaT71Z5WO-40" target="GrBn_58rgSGpaT71Z5WO-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-40" value="&lt;div&gt;&lt;b&gt;生成采样点&lt;/b&gt;&lt;/div&gt;&lt;div&gt;混合均匀采样和自适应采样&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="239.69" y="240" width="240.62" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="GrBn_58rgSGpaT71Z5WO-42" target="GrBn_58rgSGpaT71Z5WO-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-42" value="&lt;div&gt;&lt;b&gt;约束验证&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算绳索向量和单位向量&lt;/div&gt;&lt;div&gt;构建雅可比矩阵转置&lt;/div&gt;&lt;div&gt;使用线性规划求解张力分布&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="239.69" y="300" width="240.62" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="GrBn_58rgSGpaT71Z5WO-45" target="GrBn_58rgSGpaT71Z5WO-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="GrBn_58rgSGpaT71Z5WO-45" target="GrBn_58rgSGpaT71Z5WO-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-45" value="&lt;b&gt;是否可行？&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="284.38" y="370" width="151.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-46" value="&lt;div&gt;&lt;b&gt;存储可行点&lt;/b&gt;&lt;/div&gt;&lt;div&gt;添加到可行点集合&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-47" value="&lt;div&gt;&lt;b&gt;舍弃不可行点&lt;/b&gt;&lt;/div&gt;&lt;div&gt;继续下一个点&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="GrBn_58rgSGpaT71Z5WO-50" target="GrBn_58rgSGpaT71Z5WO-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="GrBn_58rgSGpaT71Z5WO-50" target="GrBn_58rgSGpaT71Z5WO-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="480" />
+              <mxPoint x="220" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-50" value="&lt;b&gt;是否完成所有采样？&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="285" y="460" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" edge="1" parent="1" source="GrBn_58rgSGpaT71Z5WO-52" target="GrBn_58rgSGpaT71Z5WO-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-52" value="&lt;div&gt;&lt;b&gt;工作空间分析&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算体积、最大/最小高度和径向范围&lt;/div&gt;&lt;div&gt;验证轨迹是否在工作空间内&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240.31" y="540" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-53" value="&lt;div&gt;&lt;b&gt;可视化结果&lt;/b&gt;&lt;/div&gt;&lt;div&gt;3D点云、Z截面、极坐标分布、凸包边界&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="239.68" y="620" width="241.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-54" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrBn_58rgSGpaT71Z5WO-47" target="GrBn_58rgSGpaT71Z5WO-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="430" as="sourcePoint" />
+            <mxPoint x="430" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="440" />
+              <mxPoint x="550" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-55" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=宋体;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GrBn_58rgSGpaT71Z5WO-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="440" as="sourcePoint" />
+            <mxPoint x="350" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-56" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="40.93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-57" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="239.68" y="370" width="40.32" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-58" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-59" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="239.68" y="480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GrBn_58rgSGpaT71Z5WO-60" value="&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;工作空间分析结果：&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;工作空间体积：&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;24089537.79mm&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;最大伸展高度：&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;399.96&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; mm&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;最小工作高度：&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;50.00&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;mm&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;最大径向范围：&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;233.51&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; mm&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="500" y="538" width="176" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
