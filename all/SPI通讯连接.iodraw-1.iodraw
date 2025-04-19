@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AxoA8Bu78UD0Lnwgty9V-46" value="一张白纸，就是最好的开始。" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=杨任东竹石体;fontSize=17;fillColor=none;strokeColor=none;align=left;verticalAlign=middle;sketch=1;fontSource=%2Ffonts%2F%E6%9D%A8%E4%BB%BB%E4%B8%9C%E7%AB%B9%E7%9F%B3%E4%BD%93.ttf;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="370" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="AxoA8Bu78UD0Lnwgty9V-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="AxoA8Bu78UD0Lnwgty9V-48" target="AxoA8Bu78UD0Lnwgty9V-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
