@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rGGzP24AmpCkL_Au9qND-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="rGGzP24AmpCkL_Au9qND-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="132" y="207" width="530" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rGGzP24AmpCkL_Au9qND-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;PC&lt;/font&gt;软件层" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=宋体;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
             <mxPoint x="400.03" y="367" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rGGzP24AmpCkL_Au9qND-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="rGGzP24AmpCkL_Au9qND-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="132" y="387" width="530" height="140" as="geometry" />
         </mxCell>
         <mxCell id="rGGzP24AmpCkL_Au9qND-25" value="串口通讯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontStyle=1" vertex="1" parent="1">
