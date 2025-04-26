@@ -124,7 +124,7 @@
         <mxCell id="1fRzSS2o-tyOd14PhK8w-29" value="控制" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0;labelBackgroundColor=none;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="339" y="510" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fRzSS2o-tyOd14PhK8w-30" value="步进电机" style="rounded=0;fontFamily=宋体;fontStyle=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;glass=1;" parent="1" vertex="1">
+        <mxCell id="1fRzSS2o-tyOd14PhK8w-30" value="步进电机" style="rounded=0;fontFamily=宋体;fontStyle=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="302" y="550" width="77" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1fRzSS2o-tyOd14PhK8w-31" value="" style="endArrow=none;dashed=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontFamily=宋体;fontStyle=0;labelBackgroundColor=none;html=1;" parent="1" source="1fRzSS2o-tyOd14PhK8w-33" target="1fRzSS2o-tyOd14PhK8w-13" edge="1">
@@ -139,7 +139,7 @@
         <mxCell id="1fRzSS2o-tyOd14PhK8w-32" value="监测" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0;labelBackgroundColor=none;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="449" y="510" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fRzSS2o-tyOd14PhK8w-33" value="限位开关" style="rounded=0;fontFamily=宋体;fontStyle=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;glass=1;" parent="1" vertex="1">
+        <mxCell id="1fRzSS2o-tyOd14PhK8w-33" value="限位开关" style="rounded=0;fontFamily=宋体;fontStyle=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="409" y="550" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1fRzSS2o-tyOd14PhK8w-34" value="" style="endArrow=classic;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;fontStyle=0;labelBackgroundColor=none;html=1;" parent="1" source="1fRzSS2o-tyOd14PhK8w-26" edge="1">
@@ -151,7 +151,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1fRzSS2o-tyOd14PhK8w-35" value="加热器" style="rounded=0;fontFamily=宋体;fontStyle=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;glass=1;" parent="1" vertex="1">
+        <mxCell id="1fRzSS2o-tyOd14PhK8w-35" value="加热器" style="rounded=0;fontFamily=宋体;fontStyle=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="499" y="550" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1fRzSS2o-tyOd14PhK8w-36" value="控制" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0;labelBackgroundColor=none;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -166,13 +166,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1fRzSS2o-tyOd14PhK8w-38" value="传感器" style="rounded=0;fontFamily=宋体;fontStyle=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;glass=1;" parent="1" vertex="1">
+        <mxCell id="1fRzSS2o-tyOd14PhK8w-38" value="传感器" style="rounded=0;fontFamily=宋体;fontStyle=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="589" y="550" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1fRzSS2o-tyOd14PhK8w-39" value="读取" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=0;labelBackgroundColor=none;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="639" y="510" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fRzSS2o-tyOd14PhK8w-40" value="LCD显示" style="rounded=0;fontFamily=宋体;fontStyle=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;glass=1;" parent="1" vertex="1">
+        <mxCell id="1fRzSS2o-tyOd14PhK8w-40" value="LCD显示" style="rounded=0;fontFamily=宋体;fontStyle=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;glass=0;" parent="1" vertex="1">
           <mxGeometry x="679" y="550" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1fRzSS2o-tyOd14PhK8w-41" value="Marlin固件" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=宋体;fontStyle=1;labelBackgroundColor=none;whiteSpace=wrap;html=1;" parent="1" vertex="1">
