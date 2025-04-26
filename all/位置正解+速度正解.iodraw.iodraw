@@ -1,0 +1,101 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="N05aYm0gc-8BrxMNroEu">
+    <mxGraphModel dx="1283" dy="398" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-2" value="&lt;font face=&quot;宋体&quot;&gt;位置正解计算（牛顿-拉夫森法）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="289" y="403" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-3" value="&lt;font face=&quot;宋体&quot;&gt;速度正解计算（最小二乘法）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="549" y="403" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" source="TLuA0se6LeUSFRRRFxuD-5" target="TLuA0se6LeUSFRRRFxuD-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;1.&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;选取工作空间中心点作为初始估计值&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;P&lt;sub style=&quot;font-size: 12px&quot;&gt;0&lt;/sub&gt;&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;，设置迭代计数器&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;k=0&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="289" y="463" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" source="TLuA0se6LeUSFRRRFxuD-7" target="TLuA0se6LeUSFRRRFxuD-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;2.&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;计算当前位置&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;P&lt;sub style=&quot;font-size: 12px&quot;&gt;k&lt;/sub&gt;&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;下的雅可比矩阵&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;J&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="289" y="543" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" source="TLuA0se6LeUSFRRRFxuD-9" target="TLuA0se6LeUSFRRRFxuD-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;3.&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;求解线性方程组得到位置增量&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;△P&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="289" y="623" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" source="TLuA0se6LeUSFRRRFxuD-11" target="TLuA0se6LeUSFRRRFxuD-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;4.&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;更新位置估计值&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;P&lt;sub style=&quot;font-size: 12px&quot;&gt;k+1&lt;/sub&gt;=P&lt;sub style=&quot;font-size: 12px&quot;&gt;k&lt;/sub&gt;+△P&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="289" y="703" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" source="TLuA0se6LeUSFRRRFxuD-13" target="TLuA0se6LeUSFRRRFxuD-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;5.||△P||≦ε？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="304" y="783" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-14" value="&lt;font face=&quot;宋体&quot;&gt;获得位置正解&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;P*&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="324" y="883" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="1" source="TLuA0se6LeUSFRRRFxuD-13" target="TLuA0se6LeUSFRRRFxuD-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239" y="903" as="sourcePoint" />
+            <mxPoint x="289" y="853" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="269" y="823" />
+              <mxPoint x="269" y="573" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-16" value="&lt;font face=&quot;宋体&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="387" y="863" width="44" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-17" value="&lt;font face=&quot;宋体&quot;&gt;否，&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;k+1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="269" y="774" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" source="TLuA0se6LeUSFRRRFxuD-19" target="TLuA0se6LeUSFRRRFxuD-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;1.&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;基于位置正解&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;P*&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;计算雅可比矩阵&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;J&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="549" y="463" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;" parent="1" source="TLuA0se6LeUSFRRRFxuD-19" target="TLuA0se6LeUSFRRRFxuD-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" source="TLuA0se6LeUSFRRRFxuD-22" target="TLuA0se6LeUSFRRRFxuD-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;2.&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;构造方程&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(JᵀJ)q̇&amp;nbsp;=&amp;nbsp;JᵀL̇&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="549" y="573" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" source="TLuA0se6LeUSFRRRFxuD-24" target="TLuA0se6LeUSFRRRFxuD-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;3.&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;求解速度向量&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;q̇=（J&lt;sup style=&quot;font-size: 12px&quot;&gt;T&lt;/sup&gt;J）&lt;sup style=&quot;font-size: 12px&quot;&gt;-1&lt;/sup&gt;J&lt;sup style=&quot;font-size: 12px&quot;&gt;T&lt;/sup&gt;L̇&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="549" y="693" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-25" value="&lt;font face=&quot;宋体&quot;&gt;获得速速正解&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;q̇*&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="549" y="813" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" parent="1" source="TLuA0se6LeUSFRRRFxuD-14" target="TLuA0se6LeUSFRRRFxuD-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="449" y="913" as="sourcePoint" />
+            <mxPoint x="549" y="513" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="499" y="913" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TLuA0se6LeUSFRRRFxuD-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="499" y="488" width="50" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
