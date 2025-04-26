@@ -8,10 +8,7 @@
           <mxGeometry x="317" y="533" width="1798" height="1232" as="geometry" />
         </mxCell>
         <mxCell id="HFzz5QWKYTGgS1dm41Bt-2" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;拉力传感器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="454" y="1081" width="71" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HFzz5QWKYTGgS1dm41Bt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HFzz5QWKYTGgS1dm41Bt-2" target="HFzz5QWKYTGgS1dm41Bt-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="454" y="1081" width="172" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
