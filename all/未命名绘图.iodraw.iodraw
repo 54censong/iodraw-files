@@ -13,7 +13,7 @@
         <mxCell id="zQ14OhZ7WT4G6eQJMW7O-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;正视图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="594" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zQ14OhZ7WT4G6eQJMW7O-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;正视图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zQ14OhZ7WT4G6eQJMW7O-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;轴视图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="594" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
