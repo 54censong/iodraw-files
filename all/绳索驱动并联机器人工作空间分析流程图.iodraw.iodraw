@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="OOGrMMsUcuAq8nQv_7oC">
-    <mxGraphModel dx="240" dy="149" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="493" dy="307" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-35" value="&lt;div&gt;&lt;b&gt;约束验证&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算绳索向量和单位向量&lt;/div&gt;&lt;div&gt;构建雅可比矩阵转置&lt;/div&gt;&lt;div&gt;使用线性规划求解张力分布&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="239.69" y="289" width="240.62" height="60" as="geometry" />
+          <mxGeometry x="239.69" y="291" width="240.62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="uWyL5-ItKjObN2i5U5Dy-38" target="uWyL5-ItKjObN2i5U5Dy-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
