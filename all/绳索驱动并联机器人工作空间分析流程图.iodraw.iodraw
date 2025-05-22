@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="OOGrMMsUcuAq8nQv_7oC">
-    <mxGraphModel dx="139" dy="87" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="288" dy="179" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,10 @@
           <mxGeometry x="239.93" y="102" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-31" value="&lt;div&gt;&lt;b&gt;设置蒙特卡洛采样参数&lt;/b&gt;&lt;/div&gt;&lt;div&gt;采样点数、高度范围、&lt;span&gt;径向范围&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="239.68" y="159" width="240" height="50" as="geometry" />
+          <mxGeometry x="239.68" y="155" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YO4_yMaHzp3nHztGuGPL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uWyL5-ItKjObN2i5U5Dy-33" target="uWyL5-ItKjObN2i5U5Dy-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-33" value="&lt;div&gt;&lt;b&gt;生成采样点&lt;/b&gt;&lt;/div&gt;&lt;div&gt;混合均匀采样和自适应采样&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="239.93" y="220" width="240.62" height="50" as="geometry" />
