@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="OOGrMMsUcuAq8nQv_7oC">
-    <mxGraphModel dx="428" dy="266" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="611" dy="380" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,11 +24,6 @@
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-17" value="&lt;b&gt;是否完成所有采样？&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="285" y="460" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uWyL5-ItKjObN2i5U5Dy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="uWyL5-ItKjObN2i5U5Dy-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360.30499999999995" y="620" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-19" value="&lt;div&gt;&lt;b&gt;工作空间分析&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算体积、最大/最小高度和径向范围&lt;/div&gt;&lt;div&gt;验证轨迹是否在工作空间内&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="240.31" y="540" width="240" height="70" as="geometry" />
@@ -138,7 +133,7 @@
           <mxGeometry x="240.31" y="489" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-53" value="&lt;div&gt;&lt;font&gt;&lt;b&gt;工作空间分析结果：&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font&gt;工作空间体积：&lt;/font&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;24089537.79&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font&gt;最大伸展高度：&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;399.96&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; mm&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font&gt;最小工作高度：&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font&gt;50.00&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;span&gt;mm&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font&gt;最大径向范围：&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;233.51&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; mm&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="500" y="538" width="188" height="130" as="geometry" />
+          <mxGeometry x="500" y="545" width="188" height="130" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-54" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$mm^{3}&amp;nbsp;$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="642" y="578" width="60" height="30" as="geometry" />
