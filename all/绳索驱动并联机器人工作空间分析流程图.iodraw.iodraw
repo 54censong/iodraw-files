@@ -98,11 +98,14 @@
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-43" value="&lt;b&gt;是否完成所有采样？&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="285" y="460" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YO4_yMaHzp3nHztGuGPL-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uWyL5-ItKjObN2i5U5Dy-45" target="uWyL5-ItKjObN2i5U5Dy-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-45" value="&lt;div&gt;&lt;b&gt;工作空间分析&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算体积、最大/最小高度和径向范围&lt;/div&gt;&lt;div&gt;验证轨迹是否在工作空间内&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="240.31" y="540" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-46" value="&lt;div&gt;&lt;b&gt;可视化结果&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;3D&lt;/font&gt;点云、&lt;font face=&quot;Times New Roman&quot;&gt;Z&lt;/font&gt;截面、极坐标分布、凸包边界&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="239.38" y="630" width="241.25" height="50" as="geometry" />
+          <mxGeometry x="240.31" y="628" width="241.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-47" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="uWyL5-ItKjObN2i5U5Dy-40" target="uWyL5-ItKjObN2i5U5Dy-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
