@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-29" value="&lt;div&gt;&lt;b&gt;初始化参数&lt;/b&gt;&lt;/div&gt;&lt;div&gt;定义静/动平台参数、绳索连接点&lt;/div&gt;&lt;div&gt;设置绳索张力约束&lt;font face=&quot;Times New Roman&quot;&gt;(T_min,T_max)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="240" y="110" width="240" height="50" as="geometry" />
+          <mxGeometry x="240" y="126" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="uWyL5-ItKjObN2i5U5Dy-31" target="uWyL5-ItKjObN2i5U5Dy-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
