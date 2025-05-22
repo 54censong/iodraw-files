@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uWyL5-ItKjObN2i5U5Dy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="uWyL5-ItKjObN2i5U5Dy-10" target="uWyL5-ItKjObN2i5U5Dy-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uWyL5-ItKjObN2i5U5Dy-10" value="&lt;div&gt;&lt;b&gt;约束验证&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算绳索向量和单位向量&lt;/div&gt;&lt;div&gt;构建雅可比矩阵转置&lt;/div&gt;&lt;div&gt;使用线性规划求解张力分布&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="239.69" y="300" width="240.62" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="uWyL5-ItKjObN2i5U5Dy-13" target="uWyL5-ItKjObN2i5U5Dy-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -31,14 +25,13 @@
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-17" value="&lt;b&gt;是否完成所有采样？&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="285" y="460" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uWyL5-ItKjObN2i5U5Dy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="uWyL5-ItKjObN2i5U5Dy-19" target="uWyL5-ItKjObN2i5U5Dy-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="uWyL5-ItKjObN2i5U5Dy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="uWyL5-ItKjObN2i5U5Dy-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360.30499999999995" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-19" value="&lt;div&gt;&lt;b&gt;工作空间分析&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算体积、最大/最小高度和径向范围&lt;/div&gt;&lt;div&gt;验证轨迹是否在工作空间内&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="240.31" y="540" width="240" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="uWyL5-ItKjObN2i5U5Dy-20" value="&lt;div&gt;&lt;b&gt;可视化结果&lt;/b&gt;&lt;/div&gt;&lt;div&gt;3D点云、Z截面、极坐标分布、凸包边界&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="239.68" y="620" width="241.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-21" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="uWyL5-ItKjObN2i5U5Dy-15" target="uWyL5-ItKjObN2i5U5Dy-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -77,11 +70,8 @@
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-33" value="&lt;div&gt;&lt;b&gt;生成采样点&lt;/b&gt;&lt;/div&gt;&lt;div&gt;混合均匀采样和自适应采样&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="240.31" y="226" width="240.62" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uWyL5-ItKjObN2i5U5Dy-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="uWyL5-ItKjObN2i5U5Dy-35" target="uWyL5-ItKjObN2i5U5Dy-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-35" value="&lt;div&gt;&lt;b&gt;约束验证&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算绳索向量和单位向量&lt;/div&gt;&lt;div&gt;构建雅可比矩阵转置&lt;/div&gt;&lt;div&gt;使用线性规划求解张力分布&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="239.69" y="300" width="240.62" height="60" as="geometry" />
+          <mxGeometry x="240.31" y="281" width="240.62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="uWyL5-ItKjObN2i5U5Dy-38" target="uWyL5-ItKjObN2i5U5Dy-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -113,14 +103,11 @@
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-43" value="&lt;b&gt;是否完成所有采样？&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="285" y="460" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uWyL5-ItKjObN2i5U5Dy-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="uWyL5-ItKjObN2i5U5Dy-45" target="uWyL5-ItKjObN2i5U5Dy-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-45" value="&lt;div&gt;&lt;b&gt;工作空间分析&lt;/b&gt;&lt;/div&gt;&lt;div&gt;计算体积、最大/最小高度和径向范围&lt;/div&gt;&lt;div&gt;验证轨迹是否在工作空间内&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="240.31" y="540" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-46" value="&lt;div&gt;&lt;b&gt;可视化结果&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;3D&lt;/font&gt;点云、&lt;font face=&quot;Times New Roman&quot;&gt;Z&lt;/font&gt;截面、极坐标分布、凸包边界&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="239.68" y="620" width="241.25" height="50" as="geometry" />
+          <mxGeometry x="239.38" y="630" width="241.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uWyL5-ItKjObN2i5U5Dy-47" value="" style="endArrow=none;html=1;rounded=0;fontFamily=宋体;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="uWyL5-ItKjObN2i5U5Dy-40" target="uWyL5-ItKjObN2i5U5Dy-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
