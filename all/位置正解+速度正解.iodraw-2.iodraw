@@ -70,7 +70,7 @@
         <mxCell id="eohdPC2aQImb-gXHrPfj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=12;" parent="1" source="eohdPC2aQImb-gXHrPfj-19" target="eohdPC2aQImb-gXHrPfj-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eohdPC2aQImb-gXHrPfj-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;1.&lt;/font&gt;&lt;font&gt;基于位置正解&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;P*&lt;/font&gt;&lt;font&gt;计算雅可比矩阵&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;J&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="eohdPC2aQImb-gXHrPfj-19" value="&lt;font&gt;基于位置正解&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;P*&lt;/font&gt;&lt;font&gt;计算雅可比矩阵&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;J&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="549" y="463" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eohdPC2aQImb-gXHrPfj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=宋体;fontSize=12;" parent="1" source="eohdPC2aQImb-gXHrPfj-19" target="eohdPC2aQImb-gXHrPfj-19" edge="1">
@@ -79,7 +79,7 @@
         <mxCell id="eohdPC2aQImb-gXHrPfj-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=12;" parent="1" source="eohdPC2aQImb-gXHrPfj-22" target="eohdPC2aQImb-gXHrPfj-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eohdPC2aQImb-gXHrPfj-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;2.&lt;/font&gt;&lt;font&gt;构造方程&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(JᵀJ)q̇&amp;nbsp;=&amp;nbsp;JᵀL̇&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=宋体;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="eohdPC2aQImb-gXHrPfj-22" value="&lt;font&gt;构造方程&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(JᵀJ)q̇&amp;nbsp;=&amp;nbsp;JᵀL̇&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=宋体;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="549" y="573" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eohdPC2aQImb-gXHrPfj-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=12;" parent="1" source="eohdPC2aQImb-gXHrPfj-24" target="eohdPC2aQImb-gXHrPfj-25" edge="1">
